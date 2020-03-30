@@ -16,3 +16,4 @@ pika
 matplotlib
 lxml
 bs4
+torch==1.2.0
